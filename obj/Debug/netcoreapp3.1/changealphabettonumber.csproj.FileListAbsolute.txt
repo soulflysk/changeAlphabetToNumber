@@ -1,0 +1,13 @@
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.exe
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.deps.json
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.runtimeconfig.json
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.runtimeconfig.dev.json
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.dll
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\bin\Debug\netcoreapp3.1\changealphabettonumber.pdb
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.csprojAssemblyReference.cache
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.AssemblyInfoInputs.cache
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.AssemblyInfo.cs
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.csproj.CoreCompileInputs.cache
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.dll
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.pdb
+C:\DATA\Codes\CSharp\CBO_test\changeAlphabetToNumber\obj\Debug\netcoreapp3.1\changealphabettonumber.genruntimeconfig.cache
